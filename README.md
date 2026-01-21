@@ -1,2 +1,2 @@
-# Portafolio "perfecto" para programadores
+# Portafolio
  
