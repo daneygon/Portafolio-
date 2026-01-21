@@ -1,127 +1,130 @@
+
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Daney Nohemi Gonzalez Marin | Portafolio",
+    "description": "Soy Estudiante de Ingenieria en Computacion enfocado en desarrollo web y creacion de aplicaciones. Experiencia en programacion con Python y Java, desarrollo de interfaces, y proyectos orientados a aplicaciones funcionales.",
+    "image": "/fondoBlanco.png",
+    "avatar": "/fondoBlanco.png",
+    "name": "Daney Nohemi Gonzalez Marin",
+    "skill": "Desarrolo Web",
+    "location": "Managua,Nicaragua",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "daneygonzalez26@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/daneygon",
+        "likedin": "https://www.linkedin.com/in/daney-gonz%C3%A1lez-7727763a7"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy Estudiante de Ingenier en Computacion enfocado en desarrollo web y creacion de aplicaciones. Experiencia en programacion con Python y Java, desarrollo de interfaces, y proyectos orientados a aplicaciones funcionales.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-javascript-plain",
+            "name": "javascript"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
         },
         {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-css-plain",
+            "name": "CSS"
         },
+        
+        {
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "SQL"
+        },
+
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+
+        {
+            "icon": "devicon-github-original",
+            "name": "GitHub"
         }
+
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "title": "Experiencia Academica",
+            "subtitle": "Experiencia Academica en Desarrollo de Software",
+            "description": "Desarrollo de aplicaciones y proyectos académicos enfocados en programacion, desarrollo web básico y creacion de aplicaciones funcionales. , manejo de datos y diseño de interfaces.",
+            "date": "Actualidad"
         },
         {
             "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Desarrollo de Software por Interés Personal",
+            "subtitle": "Proyectos personales y académicos",
+            "description": "Desarrollo de aplicaciones y proyectos de programación por interés personal, enfocado en desarrollo web y creacion de aplicaciones funcionales..",
+            "date": "2023 - Actualidad"
         }
     ],
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "DataFood",
+            "subtitle": "Aplicacion de gestion de datos",
+            "description": "Aplicación desarrollada por interes academico enfocada en la gestion y organización de datos relacionados con alimentos. El proyecto trabaja con estructuras de datos, lógica de negocio y validación de informacion, orientado a la creación de una aplicación funcional.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-uresqldatabase-plain",
+                    "name": "SQL"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "image": "/DataFood.png",
+            "github": "https://github.com/daneygon/DataFood.git"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "CyberDataStructures",
+            "subtitle": "Aplicacion con enfoque visual y funcional",
+            "description": "Aplicacion desarrollada como proyecto personal con enfoque en estilo, interfaz y funcionalidad. El proyecto explora la creacion de aplicaciones con una estetica cyberpunk y lógica de programacion orientada al usuario.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/Cyber.png",
+            "github": "https://github.com/daneygon/CyberDataStructures.git"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Universidad Nacional de Ingenieria",
+            "subtitle": "Ingenieria en Computacion",
+            "description": "En curso ",
+            "date": "2023-Actualmente"
         }
+       
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "/CS50x.png",
+            "title": "CS50: Introduction to Computer Science  Harvard University",
+            "description": "Curso enfocado en fundamentos de la informática, programación, algoritmos y resolucion de problemas..",
+            "url": "https://code-fu.net.ni/"
         },
         {
             "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
+            "title": " ",
+            "description": " .",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
         },
         {
             "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
+            "title": " ",
+            "description": "  .",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
         }
     ]
